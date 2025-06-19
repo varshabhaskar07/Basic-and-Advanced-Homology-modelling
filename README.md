@@ -6,23 +6,6 @@ This project involves both **basic** and **advanced homology modelling** of the 
 
 ---
 
-## 📁 Project Structure
-
-```
-.
-├── input.fasta               # Original FASTA sequence of THCO5
-├── output.pir                # PIR formatted sequence used for modelling
-├── models/                   # Directory containing generated PDB models
-│   ├── basic/                # Models from basic homology modelling
-│   └── advanced/             # Models from advanced homology modelling
-├── scores/                   # DOPE scores for all models
-├── alignments/               # Structural alignment and RMSD comparisons
-├── plots/                    # DOPE score plots and structural superimpositions
-└── README.md                 # Project documentation
-```
-
----
-
 ## 🧾 Steps Followed
 
 ### 1. Sequence Retrieval
