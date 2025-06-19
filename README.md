@@ -90,9 +90,13 @@ SeqIO.write(record, "output.pir", "pir")
 * Best models:
 
   * **Basic:** `THCO5.B99990010.pdb`
+![image](https://github.com/user-attachments/assets/5c1fc2b1-00c1-4f55-b44c-6644a6d11c92)
+ 
+    
   * **Advanced:** `THCO5.B99990006.pdb`
+![image](https://github.com/user-attachments/assets/b1e00237-7417-4fdb-a507-6d64488a3b94)
   
-![image](https://github.com/user-attachments/assets/38aaf78d-c216-4677-a3ca-b6a50fa7abf4)
+
 
 ---
 
@@ -102,11 +106,16 @@ SeqIO.write(record, "output.pir", "pir")
 
   * Basic models
   * Advanced models
+  
 * RMSD alignment snapshots:
 
   * Template vs. Basic model
+![image](https://github.com/user-attachments/assets/50a8815e-2c6d-43c0-bfd2-457422f748af)
+
   * Template vs. Advanced model
-  * Multi-template alignments
+![image](https://github.com/user-attachments/assets/689b7a70-dcaf-4c91-b013-5795908a0f52)
+
+
 
 ---
 
