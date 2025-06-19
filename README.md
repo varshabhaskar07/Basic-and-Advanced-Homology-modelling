@@ -91,7 +91,8 @@ SeqIO.write(record, "output.pir", "pir")
 
   * **Basic:** `THCO5.B99990010.pdb`
   * **Advanced:** `THCO5.B99990006.pdb`
-
+**![image](https://github.com/user-attachments/assets/38aaf78d-c216-4677-a3ca-b6a50fa7abf4)
+**
 ---
 
 ## 📷 Visuals & Plots
